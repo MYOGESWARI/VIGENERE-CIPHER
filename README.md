@@ -107,7 +107,8 @@ STEP-8: Repeat the above steps to generate the entire cipher text.
 
 ## OUTPUT
 
-<img width="1536" height="736" alt="image" src="https://github.com/user-attachments/assets/8d4252f3-f00d-4608-afba-d053432361e8" />
+<img width="1357" height="692" alt="Screenshot 2026-05-13 100943" src="https://github.com/user-attachments/assets/2fba7763-5095-4d91-aebb-ccd754beedb0" />
+
 
 
 ## RESULT
